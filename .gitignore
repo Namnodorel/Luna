@@ -169,6 +169,11 @@ lang/luna.mo
 # Mac crap
 .DS_Store
 
+#############
+## PhpStorm
+#############
+
+.idea/
 
 #############
 ## Luna files
